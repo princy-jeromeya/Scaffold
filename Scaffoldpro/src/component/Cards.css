@@ -1,0 +1,6 @@
+.ant-card-meta-title {
+    /* Adjust the height as per your requirement */
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  

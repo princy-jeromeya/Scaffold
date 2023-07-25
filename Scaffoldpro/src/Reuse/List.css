@@ -1,0 +1,55 @@
+.container1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: hsl(0, 0%, 88%);
+  }
+  
+  .logocontainer {
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+  }
+  
+  .logo {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .list {
+    display: flex;
+    margin-right:40px;
+  }
+  
+  .listItem {
+    margin-right: 10px;
+    padding: 5px;
+    text-decoration:none;
+    padding-left: 60px;
+    margin-top: 15px;
+    
+  }
+  
+  .listItem:hover,
+  .listItem.active {
+    color: #807b7b;
+  }
+  .custom-search .ant-input {
+    height: 40px;
+    padding-top: 4px;
+  }
+  
+  .custom-search .ant-input-search-button {
+    background-color:#666666;
+    height: 40px;
+  }
+  .search-container{
+    margin-bottom: 20px;
+    width: '390px'
+  }
+  .icon{
+    color: #666666; 
+  }
+  .text{
+    color: #666666;
+  }
